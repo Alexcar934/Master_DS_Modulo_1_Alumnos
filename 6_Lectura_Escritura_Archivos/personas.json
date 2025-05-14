@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Ana",
+        "edad": 25,
+        "intereses": [
+            "lectura",
+            "programaci\u00f3n"
+        ]
+    },
+    {
+        "nombre": "Luis",
+        "edad": 30,
+        "intereses": [
+            "deportes",
+            "m\u00fasica"
+        ]
+    },
+    {
+        "nombre": "Mar\u00eda",
+        "edad": 22,
+        "intereses": [
+            "arte",
+            "cine"
+        ]
+    }
+]
